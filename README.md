@@ -120,7 +120,7 @@ Uruchomienie w tle:
 docker compose up -d --build
 ```
 
-Zatrzymanie kontenerów:
+Wyłączenie kontenerów:
 
 ```bash
 docker compose down
